@@ -8,7 +8,7 @@
 3)command for clonning a remote repository
     > git clone remote_path
 
-    
+
 4)command for adding all untracked files to staging area
     >git add -a
 
@@ -17,5 +17,8 @@
 
 6)command for pushing files from local repository to remote repository
     >git push origin branch_name
+
+7)updates from remote repository
+   >git pull origin master
 
 
